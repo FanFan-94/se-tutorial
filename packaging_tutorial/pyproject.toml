@@ -1,0 +1,12 @@
+[project]
+name = "hello-world"
+version = "1.0.0"
+description = "My first Python package"
+requires-python = ">=3.8"
+authors = [
+    {name = "Daixin Zhao", email = "daixin.zhao@gmail.com"},
+]
+dependencies = [
+    "numpy",
+    "pandas",
+]
