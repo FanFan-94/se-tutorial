@@ -1,0 +1,19 @@
+repository - source code
+clone - own copy
+fork - a copy 
+branch - divergent change history
+commit - change
+merge - incorporate changes from one branch into another one
+conflict - when two branches have changes to the same file
+pull(merge) request
+check out - update the local copy
+rebase: incorporate changes in the main branch to your branch
+
+initialize your github repository:
+
+git init -b main
+git add .
+git commit - m "first commit"
+git remote add origin git@github.com:yourusername/se-tutorial.git
+
+git push -u origin main 
