@@ -5,7 +5,5 @@ import pytest
 
 def test_eval(test_input1, test_input2, expected):
     assert(test_input1+test_input2 == expected)
-=======
-def test_main():
-  assert(True)
+
 >>>>>>> f4390da93d222dc3b6d3d736b41f739e1f01c373
